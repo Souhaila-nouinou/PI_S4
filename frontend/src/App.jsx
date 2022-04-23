@@ -1,9 +1,11 @@
 import './App.css';
-import Formulaire from './Components/Formulaire/Formulaire';
+import React from 'react';
+import Paperbase from './Components/Profile_user/Paperbase';
+
 function App() {
   return (
     <div className="App">
-        <Formulaire/>
+      <Paperbase />
     </div>
   );
 }

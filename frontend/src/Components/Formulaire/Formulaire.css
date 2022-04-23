@@ -1,0 +1,37 @@
+.Formulaire{
+    height: 40px;
+    width: 800px;
+    flex-wrap: wrap;
+    text-align: left;
+}
+
+.MDBContainer{
+    background-color: brown;
+}
+#demo-row-radio-buttons-group-label{
+    text-align: left;
+}
+#Questions{
+    border-radius: 25px;
+    width: 800px;
+    height: 500px;
+    border-radius: 3px;
+}
+.FormLabel{
+    margin-left: 100px
+}
+
+.scrollbar {
+    overflow: scroll;
+  }
+  
+  .scrollbar::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  
+  .scrollbar::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.1);
+    background: rgba(0, 0, 0, 0.2);
+  }
